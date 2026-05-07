@@ -1,9 +1,6 @@
 # 🍽️ Smart Table Booking Hub
-### Automation Testing with Cypress | CA2 Assignment
+### Automation Testing with Cypress 
 
-**Student:** Meghana R Acharya (20242MCA0199)  
-**Submitted to:** Dr. D. Sivabalaselvamani  
-**Institution:** Presidency University – School of Information Science
 
 ---
 
