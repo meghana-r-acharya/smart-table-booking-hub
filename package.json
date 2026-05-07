@@ -1,0 +1,17 @@
+{
+  "name": "smart-table-booking-hub",
+  "version": "1.0.0",
+  "description": "Smart Table Booking Hub - Automation Testing with Cypress",
+  "scripts": {
+    "start": "node server.js",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:booking": "cypress run --spec cypress/e2e/booking.cy.js"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
